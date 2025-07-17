@@ -1,6 +1,6 @@
 # EasyOCR Form App
 
-![Project Banner](docs/image.png)
+![Project Banner](images/image.png)
 
 A modern, full-stack OCR playground and annotation tool. Upload images, extract text and bounding boxes using EasyOCR or Groq's vision models, edit and visualize results, and export structured data. Built with FastAPI, Next.js, and shadcn UI.
 
@@ -27,9 +27,9 @@ A modern, full-stack OCR playground and annotation tool. Upload images, extract 
 
 ## Screenshots
 
-|     Upload & OCR      |          Bounding Boxes          |         Prompt Extraction         |
-| :-------------------: | :------------------------------: | :-------------------------------: |
-| ![UI](docs/image.png) | ![Exactration](docs/results.png) | ![Prompt](docs/boundingboxes.png) |
+|      Upload & OCR       |           Bounding Boxes           |          Prompt Extraction          |
+| :---------------------: | :--------------------------------: | :---------------------------------: |
+| ![UI](images/image.png) | ![Exactration](images/results.png) | ![Prompt](images/boundingboxes.png) |
 
 ---
 
