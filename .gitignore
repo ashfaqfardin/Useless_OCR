@@ -326,17 +326,6 @@ typings/
 ehthumbs.db
 Thumbs.db
 
-# Project specific
-uploads/
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.tiff
-*.webp
-*.ico
-
 # API keys and secrets
 config.json
 secrets.json
